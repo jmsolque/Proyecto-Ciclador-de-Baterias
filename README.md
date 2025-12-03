@@ -72,6 +72,6 @@ Donde Vdc es la tensión de descarga.
 
 En esta sección se encuentra el código utilizado para la implementación en PLECS y así poder utilizar un C2000, en esta misma también se muestran las simualciones.
 
-## [PCB] Arvhivos para la impresión de la PCB
+## [PCB](PCB/)
 
 En esta sección se encuentran los archivos utilizados para la creación de la PCB.
