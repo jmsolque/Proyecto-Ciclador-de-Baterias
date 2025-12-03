@@ -35,7 +35,12 @@ $$
 V_{carga} = V_{cc} + V_{cp} 
 $$
 
-Con base en lo anterior, se considera que \( V_{cp} = V_{\text{batería}} \); esta igualdad se logra mediante un sistema de prealimentación que compensa la caída de tensión en los elementos intermedios y asegura que el valor aplicado en el punto de control coincida con el voltaje real de la batería.
+Con base en lo anterior, se considera que: 
+$$ 
+V_{cp} = V_{\text{batería}} 
+$$
+
+Esta igualdad se logra mediante un sistema de prealimentación que compensa la caída de tensión en los elementos intermedios y asegura que el valor aplicado en el punto de control coincida con el voltaje real de la batería.
 
 
 Por lo cual se tiene que:
