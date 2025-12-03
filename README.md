@@ -4,6 +4,7 @@ Este repositorio contiene los archivos correspondientes a un ciclador de módulo
 ## Documentación
 
 ### Componentes Utilizados
+<div align="center">
 
 | Componente | Modelo | Utilización |
 |----------|-----------|-----------|
