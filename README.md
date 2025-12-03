@@ -26,7 +26,7 @@ Este repositorio contiene los archivos correspondientes a un ciclador de módulo
 La ecuación utilizada para el circuito de carga es:
 
 $$
-0 = -V_{carga} L\frac{di_c}{dt} + V_{batería} 
+0 = -V_{carga} + L\frac{di_c}{dt} + V_{batería} 
 $$
 
 De donde se tiene que:
