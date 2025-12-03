@@ -62,7 +62,7 @@ $$
 \frac{i_c(s)}{V_{dc}(s)} = -\frac{1}{Ls}
 $$
 
-Donde \({V_{dc}\) es la tensión de descarga.
+Donde Vdc es la tensión de descarga.
 
 ## [PLECS](PLECS/)
 
