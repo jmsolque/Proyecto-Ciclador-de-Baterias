@@ -9,10 +9,11 @@ Este repositorio contiene los archivos correspondientes a un ciclador de módulo
 | Componente | Modelo | Utilización |
 |:----------:|:-----------:|:-----------:|
 | Transistor NPN| TIP120 | Dos, uno para carga y otro para descarga. |
-| Inductores 10µH   | x | Son 2, para regular corriente de carga y descarga y poder utilizar el sistema de control. |
+| Inductor 10µH   | x | Dos, para regular corriente de carga y descarga y poder utilizar el sistema de control. |
 | Amplificador Operacional | LM353 | Controlar si funciona el circuito de carga o de descarga. |
 | Transistor NPN | TIP120 | Dos, uno para carga y otro para descarga. |
 
+</div>
 
 ## [PLECS](PLECS/)
 
