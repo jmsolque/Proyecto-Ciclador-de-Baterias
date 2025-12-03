@@ -9,9 +9,13 @@ Este repositorio contiene los archivos correspondientes a un ciclador de módulo
 | Componente | Cantidad | Modelo | Utilización |
 |:----------:|:-----------:|:-----------:|:-----------:|
 | Fuente de tensión | 1 | x | Alimentar algunos de los componentes utilizados. |
-| x | x | x | x. |
-| x | x | x | x. |
+| Conversor DC/DC | 1 | TBA 1E | Tener tanto tensión positiva como negativa. |
+| Varistor | 1 | x | Circuito de protección. |
+| Resistencia 100 KΩ | 1 | x | Circuito de protección. |
+| Diodo Zener | 1 | 1N4747 | Circuito de protección. |
+| Transistor MOSFET | 1 | IRF9540N | Circuito de protección. |
 | Transistor NPN | 2 | TIP120 | Uno para carga y otro para descarga. |
+| Disipador Térmico | 2 | x | Disipar el calor de los transistores. |
 | Inductor 10µH   | 2 | x | Dos, para regular corriente de carga y descarga y poder utilizar el sistema de control. |
 | Amplificador Operacional | 1 | LM353 | Controlar si funciona el circuito de carga o de descarga. |
 | Sensores de Corriente | 2 | x | Para medir las corrientes de carga y descarga. |
@@ -68,14 +72,6 @@ Donde Vdc es la tensión de descarga.
 
 En esta sección se encuentra el código utilizado para la implementación en PLECS y así poder utilizar un C2000, en esta misma también se muestran las simualciones.
 
-## Arvhivos para la impresión de la PCB
+## [PCB] Arvhivos para la impresión de la PCB
 
-.
-
-## Simulaciones
-
-.
-
-## Imágenes del proyecto
-
-.
+En esta sección se encuentran los archivos utilizados para la creación de la PCB.
