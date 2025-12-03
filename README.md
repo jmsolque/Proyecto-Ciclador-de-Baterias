@@ -36,6 +36,7 @@ V_{carga} = V_{cc} + V_{cp}
 $$
 
 Con base en lo anterior, se considera que: 
+
 $$ 
 V_{cp} = V_{\text{batería}} 
 $$
